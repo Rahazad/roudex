@@ -1,0 +1,3 @@
+[submodule "roudex-example-1"]
+	path = example
+	url = https://github.com/Rahazad/roudex-example-1
