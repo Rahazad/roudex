@@ -959,10 +959,10 @@
   resolved "https://registry.yarnpkg.com/@rahazad/deep-equal/-/deep-equal-0.0.0.tgz#7fdaed9cffff9440294347cc53512ed048d9018f"
   integrity sha512-drAbPBUk1mkotDIxCMJtCFr4qaLVH4n5afgUVYq5yv3rYMxByavq2vecEL6GgDTsoGPoZ8uAmJMBORqKAtH4+Q==
 
-"@rahazad/payload-reducer@0.0.0":
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/@rahazad/payload-reducer/-/payload-reducer-0.0.0.tgz#b0a7b11287cd65411f362cc41dc5ca0a089d20cc"
-  integrity sha512-crU3RNoQX+EBnVJ8ODsRzPaHFPT28q6K+Rk28QCfTgDGCHFZxqlGkfrqAaoLAL55mtn5mBOH9CMHaYV7tIQK4Q==
+"@rahazad/graph-reducer@0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@rahazad/graph-reducer/-/graph-reducer-0.1.1.tgz#e8d835829b21dfb62b279f5a938cc9d615703092"
+  integrity sha512-/uA6GyBUxU/Z2a2f+Ae+hGgawGKkBuavblnkMRbXw+3B/yMNqGMtInUHYUBXdQfb36NglCgZ7sGHB5nOUpC50Q==
 
 "@rollup/plugin-alias@^3.0.1":
   version "3.1.1"

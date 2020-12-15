@@ -1,5 +1,5 @@
 import deepEqual from '@rahazad/deep-equal'
-import {payloadReducer} from '@rahazad/payload-reducer'
+import {graphReducer} from '@rahazad/graph-reducer'
 import React, {useContext, useEffect, useReducer} from 'react'
 import {defaultLogger} from './logger'
 
@@ -107,7 +107,7 @@ export const roudexInitializer = (
 			return state
 		}
 
-		const {noTransform, newState} = payloadReducer(state, payload)
+		const {noTransform, newState} = graphReducer(state, payload)
 
 		const url0 = window.location.href
 		const newUrl = new URL(url0).origin + createPathFromState(newState)

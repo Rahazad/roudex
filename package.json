@@ -1,6 +1,6 @@
 {
 	"name": "@rahazad/roudex",
-	"version": "0.1.5",
+	"version": "0.1.8",
 	"description": "A first-router state manager, inspired by redux, with similar but different usage to be more comfortable and more usable, especially for react (for now)",
 	"keywords": [
 		"state-manager",
@@ -44,7 +44,7 @@
 	},
 	"dependencies": {
 		"@rahazad/deep-equal": "0.0.0",
-		"@rahazad/payload-reducer": "0.0.0"
+		"@rahazad/graph-reducer": "0.1.1"
 	},
 	"devDependencies": {
 		"microbundle-crl": "^0.13.11",

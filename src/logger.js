@@ -10,7 +10,7 @@ export const defaultLogger = (state, action, newState = null) => {
 		'font-weight:normal;color:#888', '@', new Date().toLocaleTimeString(),
 	)
 	// console.groupCollapsed('%c%s', 'font-weight:bold;color:#9E9E9E', 'prev-state')
-	// console.log('%c%s', 'font-weight:bold;color:#9E9E9E', JSON.stringify(state0, null, '\t'))
+	// console.log('%c%s', 'font-weight:bold;color:#9E9E9E', JSON.stringify(state, null, '\t'))
 	// console.groupEnd()
 
 	console.log('%c%s\t%o', 'font-weight:bold;color:#9E9E9E', 'prev-state', state)
